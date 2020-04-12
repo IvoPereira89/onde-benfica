@@ -1,6 +1,6 @@
 ## onde-benfica
 
-This repo is a list of some places (restaurants, pubs, bars) around the world that usually stream SL Benfica's football matches. The list is in portuguese, since that was how I had the info saved in my notes.
+This repo is a list of some places (restaurants, pubs, bars) around the world that usually stream **SL Benfica**'s football matches. The list is in portuguese, since that was how I had the info saved in my notes.
 
 Feel free to contribute! 
 
