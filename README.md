@@ -6,7 +6,7 @@ The list is in portuguese, since that was how I had the info saved in my notes.
 
 Feel free to contribute!
 
-### ⚽️ Spots 
+### Spots 
 
 - Alemanha 🇩🇪
   - **Café Lisboa**, Berlim
