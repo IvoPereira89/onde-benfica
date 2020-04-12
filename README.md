@@ -1,3 +1,13 @@
+## onde-benfica
+
+This repo is a list of some places (restaurants, pubs, bars) that usually stream SL Benfica's football matches.
+
+The list is in portuguese, since that was how I had the info saved in my notes.
+
+Feel free to contribute!
+
+### ⚽️ Spots 
+
 - Alemanha 🇩🇪
   - **Café Lisboa**, Berlim
   - **Frango Português**, Düsseldorf
