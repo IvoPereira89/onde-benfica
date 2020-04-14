@@ -2,9 +2,9 @@
 
 This README is a list of some places (restaurants, pubs, bars) around the world that usually stream **SL Benfica**'s football matches.
 
-Feel free to contribute! 
+Feel free to contribute!
 
-### Spots 
+### Spots
 
 - Alemanha 🇩🇪
   - **Café Lisboa**, Berlim
@@ -78,6 +78,8 @@ Feel free to contribute!
   - **Walkabout**, Manchester
   - **Cafe Football**, Manchester
   - **A Tasca**, Peterborough
+  - **Cantinho de Portugal**, Londres
+  - **O Bombeiro**, Londres
 - República Checa 🇨🇿
   - **Café Oliveira**, Praga
 - Roménia 🇷🇴
